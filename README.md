@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the culmination of the **SQL for Data Analytics (Learn SQL in 4 Hours)** course by Luke Barousse. It dives into the 2023 tech job market to identify the most in-demand skills, highest-paying roles, and optimal skills to learn for Data Analysts.
+This project dives into the 2023 tech job market to identify the most in-demand skills, highest-paying roles, and optimal skills to learn for Data Analysts.
 
 The project queries a real-world relational database containing thousands of job postings, company details, and required skills.
 
